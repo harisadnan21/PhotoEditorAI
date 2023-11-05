@@ -4,7 +4,7 @@ import re
 
 
 
-openai.api_key = ''  # Insert your API key here
+openai.api_key = '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'  # Insert your API key here
 
 TASK_PROMPT = 'There is a system that can edit images by the user instructions.'\
 'There are three components in the system: a segmentation model, an image editing model, and a language model, which is you.'\
